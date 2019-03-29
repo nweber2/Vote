@@ -1,0 +1,17 @@
+
+.voteLab{
+	border-style: groove;
+	border-width: 4px;
+	width: 400px;
+	height: 300px;
+	position: absolute;
+	left: 35%;
+	top: 200px;
+	background-color:brown;
+	padding: 15px;
+}
+
+input{
+	background-color: black;
+	color: white;
+}
